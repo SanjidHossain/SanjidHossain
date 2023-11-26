@@ -6,7 +6,7 @@
 
 🌐 "Transforming Data into Insights and Innovations"
 
-🔍 About Me:
+## 🔍 About Me:
 
    - 💼 Computer Science Engineer with a keen focus on Data Science and AI/ML engineering.
    - 📊 Bringing approximately one year of professional experience, coupled with practical skills in data science and ML engineering.
@@ -16,24 +16,24 @@
    - 🚀 Passionate about deploying end-to-end ML solutions and developing applications in NLP and Computer Vision.
    - 🎓 B.Sc. in Computer Science & Engineering from Daffodil International University.
 
-🌟 Expertise:
+## 🌟 Expertise:
 
    - ML Model Deployment, Data ETL, and Data Science Lifecycle.
    - Deep Learning Architectures: CNN, RNN, LSTM, Transformer.
    - Strong in Python, SQL, HTML/CSS, and basic JavaScript.
    - Tools: Tableau, MySQL, Selenium, GitHub.
 
-📚 Projects & Publications:
+## 📚 Projects & Publications:
 
    - Developed applications like FoodLens.ai and Multilabel Article Classifier.
    - Published research on topics like hate speech detection and road condition detection using ML.
 
-🎖 Achievements:
+## 🎖 Achievements:
 
    - Ranked in top 15 in the Take-off Programming Contest.
    - Participated in the ICPC International Collegiate Programming Contest.
 
-🔗 Let's Connect & Collaborate!
+## 🔗 Let's Connect & Collaborate!
 
    - Email: sanjid15-11888@diu.edu.bd
    - LinkedIn: [@Md Sanjid Hossian](https://www.linkedin.com/in/md-sanjid-hossain-00b153184/)
